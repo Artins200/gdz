@@ -1,0 +1,68 @@
+reshebniki/matematika/6/vilenkin_prosv/index.html|vilenkin6_prosv|2026,2021|1|Виленкин (Просвещение)|Виленкин, Жохов, Чесноков
+reshebniki/russkijazik/6/baranov/index.html|baranov6|2026,2020,15|1|Ладыженская|Баранов, Ладыженская, Тростенцова
+reshebniki/russkijazik/6/baranov_rt/index.html|baranov_rt6|2025||Фокина (Рабочая тетрадь)|Баранов, Ладыженская
+reshebniki/russkijazik/6/baranov_kontr/index.html|baranov_kontr6|2025||Аксенова (Контр и провер)|Баранов, Ладыженская
+reshebniki/russkijazik/6/baranov_test/index.html|baranov_test6|2025||Селезнева (Тесты)|Баранов, Ладыженская
+reshebniki/istoria/6/medinsky/index.html|medinsky6|2025|1|Мединский|Мединский, Чубарьян
+reshebniki/istoria/6/medinsky_rt/index.html|medinsky_rt6|2025||Мединский (Рабочая тетрадь)|Абрамов, Ведюшкин, Рогожкин
+reshebniki/istoria/6/medinsky_torkunov/index.html|medinsky_torkunov6|2025|1|Мединский|Мединский, Торкунов
+reshebniki/istoria/6/agibalova/index.html|agibalova6|2014||Агибалова|Агибалова, Донской
+reshebniki/istoria/6/agibalova_rt/index.html|agibalova_rt6|2022||Агибалова (Рабочая тетрадь)|Крючкова, Агибалова
+reshebniki/literatura/6/korovina/index.html|korovina6|2024||Коровина|Коровина, Журавлев
+reshebniki/istoria/6/arsentev/index.html|arsentev6|2016||Арсентьев|Арсентьев, Данилов, Стефанович
+reshebniki/istoria/6/boitsov/index.html|boitsov6|2016||Бойцов|Бойцов, Шукуров
+reshebniki/istoria/6/pchelov/index.html|pchelov6|2019||Пчелов|Пчелов, Лукин
+reshebniki/istoria/6/andreev2020/index.html|andreev2020_6|2020||Андреев|Андреев, Фёдоров
+reshebniki/istoria/6/andreev/index.html|andreev6|2016||Андреев|Андреев, Фёдоров
+reshebniki/obshestvo/6/bogolubov/index.html|bogolubov6|2022||Боголюбов|Боголюбов, Виноградова
+reshebniki/obshestvo/6/bogolubov_rutkovskaya/index.html|bogolubov_rutkovskaya6|2023||Боголюбов|Боголюбов, Рутковская
+reshebniki/obshestvo/6/kotova/index.html|kotova6|2022||Котова|Котова, Лискова
+reshebniki/russkijazik/6/shmelev/index.html|shmelev6|2022||Шмелёв|Шмелёв, Флоренская
+reshebniki/russkijazik/6/razumovskaya/index.html|razum6|2023,2021,13||Разумовская|Разумовская, Львова
+reshebniki/russkijazik/6/razumovskaya_rt/index.html|razumovskaya_rt6|2023||Разумовская (Рабочая тетрадь)|Разумовская, Ларионова
+reshebniki/matematika/6/vilenkin_rt/index.html|vilenkin_rt6|2023||Виленкин (Рабочая тетрадь)|Ткачёва, Виленкин
+reshebniki/matematika/6/vilenkin_kontr/index.html|vilenkin_kontr6|2025||Виленкин (Контрольные)|Крайнева, Виленкин
+reshebniki/matematika/6/vilenkin/index.html|vilenkin6|2019||Виленкин (Мнемозина)|Виленкин, Жохов, Чесноков
+reshebniki/matematika/6/peterson/index.html|peterson6|2025,2010|1|Петерсон|Дорофеев, Петерсон
+reshebniki/matematika/6/merzlyak/index.html|merzlyak6|2024||Мерзляк|Мерзляк, Полонский, Якир
+reshebniki/matematika/6/merzlyak_rt/index.html|merzlyak6_rt|2019||Мерзляк (Рабочая тетрадь)|Мерзляк, Полонский, Якир
+reshebniki/matematika/6/merzlyak_didakt/index.html|merzlyak6_didakt|2018||Мерзляк (Дидакт.)|Мерзляк, Полонский, Якир
+reshebniki/matematika/6/chesnokov_didakt/index.html|chesnokov_didakt6|2014||Виленкин (Дидакт.)|Чесноков, Нешков
+reshebniki/matematika/6/dorofeev/index.html|dorofeev6|2024,2022||Дорофеев|Дорофеев, Шарыгин, Суворова
+reshebniki/russkijazik/6/aleksandrova/index.html|aleksandrova6|2020||Александрова|Александрова, Загоровская, Богданов
+reshebniki/russkijazik/6/ribchenkova_new/index.html|ribchenkova_new6|2025||Рыбченкова|Рыбченкова, Александрова, Загоровская
+reshebniki/russkijazik/6/ribchenkova/index.html|ribchenkova6|2019,2014||Рыбченкова|Рыбченкова, Александрова, Загоровская
+reshebniki/russkijazik/6/bistrova/index.html|bistrova6|2021||Быстрова|Быстрова, Кибирева, Гостева
+reshebniki/russkijazik/6/lidman-orlova/index.html|lidman6|2020||Лидман-Орлова|Лидман-Орлова, Пименова
+spotlight6/index.html|spotlight6|2023,2019||Spotlight|Юлия Ваулина, Джунни Дули
+starlight6/index.html|starlight6|2023,2019||Starlight|Баранова, Дули, Копылова
+komarova6/index.html|komarova6|2022,2014||Комарова|Комарова, Ларионова
+rainbow6/index.html|rainbow6|2022||Rainbow|Баранова, Афанасьева, Михеева
+forward6/index.html|forward6|2020||Forward|Вербицкая, Гаярделли, Редли
+enjoy6/index.html|bibo6|2021||Enjoy English|Биболетова, Денисенко
+kuzovlev6/index.html|kuzovlev6|2019||Кузовлев|Кузовлев, Лапа, Перегудова
+reshebniki/matematika/6/muravin/index.html|muravin6|2014||Муравин|Муравин, Муравина
+reshebniki/matematika/6/bunimovich/index.html|bunimovich6|2023,2014||Бунимович|Бунимович, Кузнецова, Минаева
+reshebniki/matematika/6/bunimovich_tetrad-trenazer/index.html|bun_train6|2013||Бунимович (Тренажёр)|Бунимович, Кузнецова
+reshebniki/matematika/6/nikol/index.html|nikol6|2021||Никольский|Никольский, Потапов, Решетников
+reshebniki/biologia/6/pasechnik_sumatohin/index.html|pasechnik_sum6|2023||Пасечник|Пасечник, Суматохин, Гапонюк
+reshebniki/biologia/6/ponomareva/index.html|ponomareva6|2019||Пономарева|Пономарева, Корнилова
+reshebniki/biologia/6/ponomareva_rt/index.html|ponomareva6_rt|2019||Пономарева (Рабочая тетрадь)|Пономарева, Корнилова
+reshebniki/biologia/6/pasechnik/index.html|pasechnik6|2021||Пасечник|Пасечник
+reshebniki/biologia/6/pasechnik_rt/index.html|pasechnik_rt6|2017||Пасечник (Рабочая тетрадь)|Пасечник
+reshebniki/biologia/6/sonin/index.html|sonin6|2021||Сонин|Сонин, Сонина
+reshebniki/biologia/6/sonin_rt/index.html|sonin6_rt|2014||Сонин (Рабочая тетрадь)|Сонин
+reshebniki/biologia/6/sivoglazov/index.html|sivoglazov6|2019||Сивоглазов|Сивоглазов, Плешаков
+reshebniki/matematika/6/zubareva/index.html|zubareva6|2014||Зубарева|Зубарева, Мордкович
+reshebniki/matematika/6/zubareva_rt2/index.html|zubareva_rt6-2|2013||Зубарева (Рабочая тетрадь)|Зубарева
+reshebniki/matematika/6/zubareva_rt/index.html|zubareva_rt6|2014||Зубарева (Рабочая тетрадь)|Ерина, Зубарева, Мордкович
+reshebniki/matematika/6/tkacheva/index.html|tkacheva6|2019||Ткачёва|Ткачёва
+reshebniki/informatika/6/bosova/index.html|bosova6|2024,2013||Босова|Босова
+reshebniki/informatika/6/WBbosova/index.html|WBbosova6|2025,2017||Босова (Рабочая тетрадь)|Босова
+reshebniki/informatika/6/bosova_kontr/index.html|bosova_kontr6|2025||Босова (Сам и контр)|Босова
+reshebniki/informatika/6/semenov/index.html|semenov6|2024||Семёнов|Семёнов, Рудченко
+reshebniki/geograph/5/alexeev_nikolina_new/index.html|alexeev_nikolina_new56|2026,2023|1|Алексеев 5-6 класс|Алексеев, Николина
+reshebniki/geograph/5/alexeev_nikolina/index.html|alexeev_nikolina56|2019||Алексеев 5-6 класс|Алексеев, Николина
+reshebniki/geograph/5/klimanova/index.html|klimanova56|2022||Климанова 5-6 класс|Климанова, Климанов, Ким
+reshebniki/geograph/6/letyagin/index.html|letyagin6|2023||Летягин|Летягин
+reshebniki/geograph/6/gerasimova/index.html|gerasimova6|2014||Герасимова|Герасимова, Неклюкова
