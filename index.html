@@ -31,11 +31,14 @@
 
   <main class="wrap">
     <div id="offline" class="note" hidden>Нет сети: каталог доступен, но сами решения открываются на reshak.ru и требуют интернета.</div>
+    <div id="catalogView">
     <div class="chips" id="subjects" aria-label="Предметы"></div>
     <h1 id="title"></h1>
     <p id="count" class="muted"></p>
     <section id="grid" class="grid" aria-live="polite"></section>
     <p id="empty" class="empty" hidden>Ничего не найдено. Попробуйте изменить запрос или выбрать другой класс.</p>
+    </div>
+    <section id="book" hidden></section>
   </main>
 
   <footer class="wrap foot">
@@ -45,6 +48,7 @@
   </footer>
 
   <script src="data/catalog.js" defer></script>
+  <script src="data/solutions/makar7.js" defer></script>
   <script src="app.js" defer></script>
 </body>
 </html>
