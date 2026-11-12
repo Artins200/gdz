@@ -38,4 +38,6 @@ const out = {
   classes, subjects: SUBJECTS, books: [...books.values()], byClass,
 };
 writeFileSync(join(root, 'data/catalog.json'), JSON.stringify(out));
+// Копия в виде скрипта: работает и при открытии index.html прямо с диска (file://), где fetch запрещён.
+writeFileSync(join(root, 'data/catalog.js'), 'window.GDZ_CATALOG=' + JSON.stringify(out) + ';\n');
 console.log(`Учебников: ${books.size}; по классам:`, Object.fromEntries(classes.map(c => [c, byClass[c].length])));

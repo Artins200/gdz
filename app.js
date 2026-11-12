@@ -90,7 +90,7 @@
   }
 
   async function init() {
-    DB = await (await fetch('data/catalog.json')).json();
+    DB = window.GDZ_CATALOG || await (await fetch('data/catalog.json')).json();
     DB.books.forEach((b) => {
       b._k = norm(`${b.t} ${b.a} ${DB.subjects[b.s]} ${b.cl.map((c) => `${c} класс`).join(' ')} ${b.u}`);
     });
@@ -143,7 +143,7 @@
   const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
   if (/iphone|ipad|ipod/i.test(navigator.userAgent) && !standalone) $('iosHint').hidden = false;
 
-  if ('serviceWorker' in navigator) {
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
     window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
   }
 
