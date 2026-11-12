@@ -1,11 +1,11 @@
 /* Service worker: оболочка и каталог — офлайн; обложки кэшируются по мере просмотра. */
-const VERSION = 'v9';
+const VERSION = 'v10';
 const SHELL = `gdz-shell-${VERSION}`;
 const COVERS = 'gdz-covers-v1';
 const COVERS_MAX = 700;
 const ASSETS = [
   './', './index.html', './styles.css', './app.js', './manifest.webmanifest',
-  './data/catalog.json', './data/catalog.js', './data/solutions/makar7.js', './data/solutions/makar7_p2.js', './data/solutions/makar7_p3.js', './data/solutions/makar7_p4.js', './data/solutions/makar7_p5.js', './data/solutions/makar7_p6.js', './icons/icon-192.png', './icons/icon-512.png',
+  './data/catalog.json', './data/catalog.js', './data/solutions/makar7.js', './data/solutions/makar7_p2.js', './data/solutions/makar7_p3.js', './data/solutions/makar7_p4.js', './data/solutions/makar7_p5.js', './data/solutions/makar7_p6.js', './data/solutions/makar7_p7.js', './icons/icon-192.png', './icons/icon-512.png',
 ];
 
 self.addEventListener('install', (e) => {
