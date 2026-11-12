@@ -9,7 +9,7 @@
   let explain = true;
   try { explain = localStorage.getItem('gdz-explain') !== '0'; } catch { /* пусто */ }
   // 5/6 и 1_2/5 → дроби
-  const math = (s) => esc(s).replace(/(\d+)_(\d+)\/(\d+)|(\d+)\/(\d+)/g, (m, w, a, b, c, d) =>
+  const math = (s) => esc(s).replace(/(\d+)_(\d+)\/(\d+)|\b([0-9a-z]+)\/([0-9a-z²]+)/g, (m, w, a, b, c, d) =>
     `<span class="fr">${w ? `<i>${w}</i>` : ''}<span><b>${a || c}</b><b>${b || d}</b></span></span>`);
 
   function renderBook(r) {
