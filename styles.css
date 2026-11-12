@@ -108,10 +108,15 @@ h2 { font-size: 18px; margin: 22px 0 8px; }
 .task > .muted { margin: 2px 0 12px; font-size: 14px; }
 .why { padding: 10px 14px; border-left: 4px solid var(--brand); background: var(--card); border-radius: 0 10px 10px 0; font-size: 15px; }
 .parts { list-style: none; margin: 14px 0; padding: 0; }
-.parts li { display: flex; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line); }
-.parts .l { flex: none; min-width: 34px; font-weight: 600; color: var(--muted); }
-.ans { font-size: 17px; font-weight: 600; }
-.ex { margin-top: 3px; font-size: 14.5px; color: var(--muted); }
+.parts > li { padding: 14px 16px; margin-bottom: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+.parts .l { font-weight: 700; font-size: 17px; color: var(--brand); margin-bottom: 6px; }
+.steps { list-style: none; margin: 0; padding: 0; counter-reset: st; }
+.steps li { counter-increment: st; display: grid; grid-template-columns: 22px 1fr; column-gap: 6px; padding: 5px 0; }
+.steps li::before { content: counter(st) "."; color: var(--muted); font-size: 13px; padding-top: 3px; }
+.steps .m { grid-column: 2; font-size: 16.5px; }
+.steps .c { grid-column: 2; font-size: 14px; color: var(--muted); padding-left: 10px; border-left: 2px solid var(--line); margin-top: 2px; }
+.ans { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); font-size: 16.5px; font-weight: 600; }
+.ans span { color: var(--muted); font-weight: 400; }
 .pn { display: flex; justify-content: space-between; margin-top: 16px; }
 .pn .btn { display: inline-grid; place-items: center; text-decoration: none; }
 .fr { display: inline-flex; align-items: center; gap: 2px; vertical-align: middle; }

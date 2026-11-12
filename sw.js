@@ -1,5 +1,5 @@
 /* Service worker: оболочка и каталог — офлайн; обложки кэшируются по мере просмотра. */
-const VERSION = 'v3';
+const VERSION = 'v4';
 const SHELL = `gdz-shell-${VERSION}`;
 const COVERS = 'gdz-covers-v1';
 const COVERS_MAX = 700;

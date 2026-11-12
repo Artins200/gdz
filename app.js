@@ -31,8 +31,9 @@
       html += `<article class="task">
         <h2>№ ${t.n}</h2><p class="muted">${esc(t.sec.title)} · ${esc(t.topic)}</p>
         ${explain ? `<div class="why"><b>Как рассуждать.</b> ${math(t.why)}</div>` : ''}
-        <ol class="parts">${t.items.map(([l, a, e]) => `<li>${l ? `<span class="l">${math(l)}${/^[а-я]$/.test(l) ? ')' : ':'}</span>` : ''}
-          <div><div class="ans">${math(a)}</div>${explain ? `<div class="ex">${math(e)}</div>` : ''}</div></li>`).join('')}</ol>
+        <ol class="parts">${t.items.map(([l, a, steps]) => `<li>${l ? `<div class="l">${math(l)}${/^[а-я]$/.test(l) ? ')' : ':'}</div>` : ''}
+          <ol class="steps">${steps.map((st) => { const [m, c] = st.split(' || '); return `<li><span class="m">${math(m)}</span>${explain && c ? `<span class="c">${math(c)}</span>` : ''}</li>`; }).join('')}</ol>
+          <div class="ans"><span>Ответ:</span> ${math(a)}</div></li>`).join('')}</ol>
         ${explain ? `<details class="theory"><summary>Правила по теме</summary><ul>${t.sec.theory.map((x) => `<li>${math(x)}</li>`).join('')}</ul></details>` : ''}
         <nav class="pn">${prev ? `<a class="btn" href="#/book/${b.id}/${prev.n}">← № ${prev.n}</a>` : '<span></span>'}
           ${next ? `<a class="btn primary" href="#/book/${b.id}/${next.n}">№ ${next.n} →</a>` : ''}</nav>
