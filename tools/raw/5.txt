@@ -1,0 +1,55 @@
+reshebniki/matematika/5/vilenkin_prosv/index.html|vilenkin5_prosv|2025,2020|1|Виленкин|Виленкин, Жохов, Александрова
+reshebniki/matematika/5/vilenkin_rt/index.html|vilenkin_rt5|2023||Виленкин (Рабочая тетрадь)|Ткачёва, Виленкин
+reshebniki/matematika/5/vilenkin_kontr/index.html|vilenkin_kontr5|2025||Виленкин (Контрольные)|Крайнева, Виленкин
+reshebniki/matematika/5/vilenkin/index.html|vilenkin5|2019|1|Виленкин (Мнемозина)|Виленкин, Жохов, Чесноков
+reshebniki/matematika/5/peterson/index.html|peterson5|2025|1|Петерсон|Дорофеев, Петерсон
+reshebniki/matematika/5/merzlyak/index.html|merzlyak5|2026,2019||Мерзляк|Мерзляк, Полонский, Якир
+reshebniki/matematika/5/merzlyak_rt/index.html|merzlyak5_rt|2018||Мерзляк (Рабочая тетрадь)|Мерзляк, Полонский, Якир
+reshebniki/matematika/5/merzlyak_didakt/index.html|merzlyak5_didakt|2026||Мерзляк (Дидакт.)|Мерзляк, Полонский, Якир
+reshebniki/matematika/5/chesnokov_didakt/index.html|chesnokov_didakt5|2014||Виленкин (Дидакт.)|Чесноков, Нешков
+reshebniki/matematika/5/bunimovich/index.html|bunimovich5|2023,2019||Бунимович|Бунимович, Дорофеев, Кузнецова
+spotlight5/index.html|spotlight5|2026||Spotlight|Юлия Ваулина, Джунни Дули
+starlight5/index.html|starlight5|2026,2019||Starlight|Баранова, Дули, Копылова
+rainbow5/index.html|rainbow5|2015||Rainbow|Баранова, Афанасьева, Михеева
+kuzovlev5/index.html|kuzovlev5|2019||Кузовлев|Кузовлев, Лапа, Перегудова
+komarova5/index.html|komarova5|2019||Комарова|Комарова, Ларионова
+forward5/index.html|forward5|2020||Forward|Вербицкая, Эббс, Уорелл
+reshebniki/russkijazik/5/ladizhenskaya/index.html|bar5|2026,2019,12|1|Ладыженская|Ладыженская, Баранов, Тростенцова
+reshebniki/russkijazik/5/ladizhenskaya_rt/index.html|ladizhenskaya_rt5|2025||Ляшенко (Рабочая тетрадь)|Ладыженская, Ляшенко
+reshebniki/russkijazik/5/ladizhenskaya_did_mater/index.html|ladizhenskaya_did_mater5|2025||Аксенова (Дидакт.)|Ладыженская, Аксенова
+reshebniki/russkijazik/5/ladizhenskaya_test/index.html|ladizhenskaya_test5|2025||Белякова (Тесты)|Ладыженская, Белякова
+reshebniki/russkijazik/5/razumovskaya/index.html|razum5|2025,2021,12||Разумовская|Разумовская, Львова, Капинос
+reshebniki/russkijazik/5/razumovskaya_rt/index.html|razumovskaya_rt5|2023||Разумовская (Рабочая тетрадь)|Ларионова, Разумовская
+reshebniki/matematika/5/nikol/index.html|nikol5|2019||Никольский|Никольский, Потапов, Решетников
+reshebniki/matematika/5/zubareva/index.html|zubareva5|2018||Зубарева|Зубарева, Мордкович
+reshebniki/matematika/5/tkacheva/index.html|tkacheva5|2019||Ткачёва|Ткачёва
+reshebniki/russkijazik/5/ribchenkova/index.html|ribchenkova5|2023,2019||Рыбченкова|Рыбченкова, Александрова, Глазков
+reshebniki/russkijazik/5/bistrova/index.html|bistrova5|2019||Быстрова|Быстрова, Кибирева, Гостева
+reshebniki/russkijazik/5/shmelev/index.html|shmelev5|2020||Шмелёв|Шмелёв, Флоренская
+reshebniki/russkijazik/5/aleksandrova/index.html|aleksandrova5|2026||Александрова|Александрова, Загоровская, Богданов
+reshebniki/matematika/5/dorofeev/index.html|dorofeev5|2024,2022||Дорофеев|Дорофеев, Шарыгин, Суворова
+reshebniki/biologia/5/pasechnik_rakovina/index.html|pasechnik_rakovina5|2026||Пасечник (Базовый уровень)|Пасечник
+reshebniki/biologia/5/pasechnik/index.html|pasechnik5|2018||Пасечник (Введение в биологию)|Пасечник
+reshebniki/biologia/5/pasechnik_bacteries/index.html|pasechnik_bacteries5|2021||Пасечник (Бактерии Грибы Растения)|Пасечник
+reshebniki/biologia/5/pasechnik_rt/index.html|pasechnik_rt5|2015||Пасечник (Рабочая тетрадь)|Пасечник
+reshebniki/biologia/5/ponomareva_new/index.html|ponomareva_new5|2024||Пономарёва|Пономарёва, Николаев, Корнилова
+reshebniki/biologia/5/ponomareva/index.html|ponomareva5|2021||Пономарёва|Пономарёва, Николаев, Корнилова
+reshebniki/biologia/5/ponomareva_rt/index.html|ponomareva_rt5|2021||Пономарёва (Рабочая тетрадь)|Корнилова, Николаев, Симонова
+reshebniki/biologia/5/sivoglazov/index.html|sivoglazov5|2021||Сивоглазов|Сивоглазов, Плешаков
+reshebniki/istoria/5/medinsky/index.html|medinsky5|2025|1|Мединский|Мединский, Чубарьян
+reshebniki/istoria/5/vigasin_new/index.html|vigasin_new5|2024||Вигасин|Вигасин, Годер, Свенцицкая
+reshebniki/istoria/5/vigasin/index.html|vigasin5|2020||Вигасин|Вигасин, Годер, Свенцицкая
+reshebniki/istoria/5/goder/index.html|goder5|2017||Годер (Рабочая тетрадь)|Годер, Вигасин
+reshebniki/istoria/5/ukolova/index.html|ukolova5|2019||Уколова|Уколова
+reshebniki/istoria/5/nikishin/index.html|nikishin5|2022||Никишин|Никишин, Стрелков, Томашевич
+reshebniki/geograph/5/alexeev_nikolina_new/index.html|alexeev_nikolina_new56|2026,2023|1|Алексеев 5-6 класс|Алексеев, Николина
+reshebniki/geograph/5/alexeev_nikolina/index.html|alexeev_nikolina56|2019||Алексеев 5-6 класс|Алексеев, Николина
+reshebniki/geograph/5/klimanova/index.html|klimanova56|2022||Климанова 5-6 класс|Климанова, Климанов, Ким
+reshebniki/geograph/5/maximov/index.html|maximov5|2022||Герасимова|Максимов, Герасимова, Неклюкова
+reshebniki/informatika/5/bosova_new/index.html|bosova_new5|2024||Босова|Босова
+reshebniki/informatika/5/bosova/index.html|bosova5|2019||Босова|Босова
+reshebniki/informatika/5/WBbosova/index.html|WBbosova5|2023||Босова (Рабочая тетрадь)|Босова
+reshebniki/informatika/5/semenov/index.html|semenov5|2023||Семёнов|Семёнов, Рудченко
+reshebniki/literatura/5/korovina/index.html|korovina5|2025||Коровина|Коровина, Журавлев
+reshebniki/obshestvo/5/bogolubov/index.html|bogolubov5|2018||Боголюбов|Боголюбов, Виноградова
+reshebniki/obshestvo/5/bogolubov_rt/index.html|bogolubov_rt5|2012||Боголюбов (Рабочая тетрадь)|Боголюбов, Иванова

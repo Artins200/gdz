@@ -1,0 +1,44 @@
+reshebniki/matematika/4/moro/index.html|moro4|2026|1|Моро|Моро, Бантова, Бельтюкова
+reshebniki/matematika/4/moro_rt/index.html|moro_rt4|2019||Моро (Рабочая тетрадь)|Волкова, Моро
+reshebniki/matematika/4/peterson/index.html|peterson4|2024,2022||Петерсон|Петерсон
+reshebniki/matematika/4/peterson_old/index.html|peterson_old4|2015||Петерсон|Петерсон
+reshebniki/matematika/4/peterson_rt/index.html|peterson_rt4|2017||Петерсон (Рабочая тетрадь)|Петерсон
+reshebniki/matematika/4/dorofeev_new/index.html|dorofeev_new4|2024||Дорофеев|Дорофеев, Миракова, Бука
+reshebniki/matematika/4/dorofeev/index.html|dorofeev4|2023||Дорофеев|Дорофеев, Миракова, Бука
+reshebniki/matematika/4/dorofeev_rt/index.html|dorofeev_rt4|2018||Дорофеев (Рабочая тетрадь)|Дорофеев, Миракова, Бука
+reshebniki/matematika/4/bashmakov/index.html|bashmakov4|2009||Башмаков|Башмаков, Нефедова
+reshebniki/matematika/4/bashmakov_kontr/index.html|bashmakov_kontr4|2023||Нефедова (Контр.работы)|Нефедова, Башмаков
+reshebniki/matematika/4/rudnitskaya/index.html|rudnitskaya4|2023||Рудницкая|Рудницкая, Юдачева
+reshebniki/matematika/4/istomina/index.html|istomina4|2023||Истомина|Истомина
+reshebniki/matematika/4/istomina_rt/index.html|istomina_rt4|2015||Истомина (Рабочая тетрадь)|Истомина
+reshebniki/russkijazik/4/kanakina/index.html|kanakina4|2026,2023,13|1|Канакина|Канакина, Горецкий
+reshebniki/russkijazik/4/kanakina_tetrad/index.html|kanakina_tetrad4|2023||Канакина (Рабочая тетрадь)|Канакина
+reshebniki/russkijazik/4/ivanov/index.html|ivanov4|2026||Иванов|Иванов, Кузнецова
+reshebniki/russkijazik/4/ramzaeva/index.html|ramzaeva4|2026|1|Рамзаева|Рамзаева
+reshebniki/russkijazik/4/ramzaeva_tetrad/index.html|ramzaeva_rt4|2024||Рамзаева (Рабочая тетрадь)|Рамзаева, Савинкина
+reshebniki/russkijazik/4/klimanova/index.html|klimanova4|2025,2019||Климанова|Климанова, Бабушкина
+reshebniki/russkijazik/4/matveeva/index.html|matveeva4|2022||Матвеева|Матвеева
+reshebniki/russkijazik/4/nechaeva/index.html|nechaeva4|2022||Нечаева|Нечаева, Яковлева
+reshebniki/russkijazik/4/repkin/index.html|repkin4|2024,2019||Репкин|Репкин, Восторгова, Некрасова
+reshebniki/russkijazik/4/zheltovskaya/index.html|zheltovskaya4|2020||Желтовская|Желтовская, Калинина
+reshebniki/russkijazik/4/aleksandrova/index.html|aleksandrova4|2026,2020||Александрова|Александрова, Вербицкая, Богданов
+reshebniki/russkijazik/4/soloveychik/index.html|soloveychik4|2023||Соловейчик|Соловейчик, Кузьменко
+reshebniki/russkijazik/4/soloveychik_tetrad/index.html|soloveychik_tetrad4|2013||Соловейчик (Рабочая тетрадь)|Соловейчик, Кузьменко
+spotlight4/index.html|spotlight4|2026||Spotlight|Быкова, Джунни Дули
+starlight4/index.html|starlight4|2023||Starlight|Баранова, Дули, Копылова
+rainbow4/index.html|rainbow4|2021||Rainbow|Афанасьева, Михеева
+vereshagina4/index.html|vereshagina4|2023||English|Верещагина, Афанасьева
+kuzovlev4/index.html|kuzovlev4|2021||Кузовлев|Кузовлев, Перегудова
+forward4/index.html|forward4|2023||Forward|Вербицкая, Эббс, Уорелл
+enjoy4/index.html|bibo4|2020||Enjoy English|Биболетова, Денисенко
+reshebniki/okruzhaushiy_mir/4/pleshakov/index.html|pleshakov4|2023||Плешаков|Плешаков, Крючкова
+reshebniki/okruzhaushiy_mir/4/pleshakov_novickaya/index.html|pleshakov_novickaya4|2021||Плешаков|Плешаков, Новицкая
+reshebniki/okruzhaushiy_mir/4/vinogradova/index.html|vinogradova4|2023||Виноградова|Виноградова, Калинова
+reshebniki/okruzhaushiy_mir/4/potapov/index.html|potapov4|2023||Потапов|Потапов, Ивченкова, Саплина
+reshebniki/okruzhaushiy_mir/4/poglazova/index.html|poglazova4|2023||Поглазова|Поглазова, Ворожейкина, Шилин
+reshebniki/chtenie/4/klimanova/index.html|klimanova_chtenie4|2023||Климанова|Климанова, Виноградская
+reshebniki/chtenie/4/efrosinina/index.html|efrosinina4|2023||Ефросинина|Ефросинина, Оморокова
+reshebniki/chtenie/4/kats/index.html|kats4|2021||Кац|Кац
+reshebniki/chtenie/4/kubasova/index.html|kubasova4|2024||Кубасова|Кубасова
+reshebniki/chtenie/4/sviridova/index.html|sviridova4|2020||Свиридова|Свиридова
+reshebniki/chtenie/4/vinogradova_chtenie/index.html|vinogradova_chtenie4|2023||Виноградова|Виноградова, Петрова

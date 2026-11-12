@@ -1,0 +1,24 @@
+reshebniki/matematika/3/moro/index.html|moro3|2026,2023|1|Моро|Моро, Бантова, Бельтюкова
+reshebniki/matematika/3/moro_rt/index.html|moro_rt3|2024||Моро (Рабочая тетрадь)|Волкова, Моро
+reshebniki/matematika/3/peterson/index.html|peterson3|2022,2012||Петерсон|Петерсон
+reshebniki/matematika/3/peterson_rt/index.html|peterson_rt3|2025||Петерсон (Рабочая тетрадь)|Петерсон
+reshebniki/matematika/3/dorofeev/index.html|dorofeev3|2024||Дорофеев|Дорофеев, Миракова, Бука
+reshebniki/russkijazik/3/kanakina/index.html|kanakina3|2025|1|Канакина|Канакина, Горецкий
+reshebniki/russkijazik/3/kanakina_prover/index.html|kanakina_prover3|2025||Канакина (Провер.работы)|Канакина, Щёголева
+reshebniki/russkijazik/3/ramzaeva/index.html|ramzaeva3|2024||Рамзаева|Рамзаева
+reshebniki/russkijazik/3/klimanova/index.html|klimanova3|2023|1|Климанова|Климанова, Бабушкина
+reshebniki/russkijazik/3/aleksandrova/index.html|aleksandrova3|2026||Александрова|Александрова
+reshebniki/russkijazik/3/ivanov/index.html|ivanov3|2023||Иванов|Иванов, Кузнецова
+reshebniki/russkijazik/3/nechaeva/index.html|nechaeva3|2023||Нечаева|Нечаева, Яковлева
+reshebniki/chtenie/3/klimanova_goreckiy/index.html|klimanova_goreckiy3|2023||Климанова|Климанова, Горецкий
+reshebniki/chtenie/3/klimanova_goreckiy_rt2025/index.html|klimanova_goreckiy_rt2025_3|2025||Климанова (Рабочая тетрадь)|Климанова, Бойкина
+reshebniki/chtenie/3/klimanova_goreckiy_rt2023/index.html|klimanova_goreckiy_rt2023_3|2023||Климанова (Рабочая тетрадь)|Климанова, Бойкина
+reshebniki/chtenie/3/klimanova_vinogradskaya/index.html|klimanova_vinogradskaya3|2023||Климанова|Климанова, Виноградская
+reshebniki/chtenie/3/efrosinina/index.html|efrosinina3|2023||Ефросинина|Ефросинина, Оморокова
+spotlight3/index.html|spot3|2023||Spotlight|Быкова, Джунни Дули
+starlight3/index.html|starlight3|2023||Starlight|Баранова, Дули, Копылова
+reshebniki/okruzhaushiy_mir/3/pleshakov/index.html|pleshakov3|2024|1|Плешаков|Плешаков
+reshebniki/okruzhaushiy_mir/3/pleshakov_tetrad/index.html|pleshakov_tetrad3|2025||Плешаков (Рабочая тетрадь)|Плешаков
+reshebniki/okruzhaushiy_mir/3/pleshakov_test/index.html|pleshakov_test3|2025,2023||Плешаков (Тесты)|Плешаков
+reshebniki/okruzhaushiy_mir/3/vinogradova/index.html|vinogradova3|2023|1|Виноградова|Виноградова, Калинова
+reshebniki/okruzhaushiy_mir/3/dmitrieva/index.html|dmitrieva3|2021||Дмитриева|Дмитриева, Казаков

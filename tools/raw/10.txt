@@ -1,0 +1,64 @@
+spotlight10/index.html|spot10|2026,2012||Spotlight|Юлия Ваулина, Джунни Дули
+reshebniki/geometriya/10/atanasyan10-11/index.php|atan10-11|2026|1|Атанасян 10-11 класс|Атанасян, Бутузов, Кадомцев
+reshebniki/algebra/10/alimov/index.php|alim10-11|2026|1|Алимов 10-11 класс|Алимов, Колягин, Ткачёва
+reshebniki/algebra/10/mordkovich3/index.html|mordkovich10-11|2019|1|Мордкович 10-11 класс (Базовый Ч2)|Мордкович, Семенов
+reshebniki/algebra/10/mordkovich_semenov/index.html|mordkovich_semenov10|2025||Мордкович|Мордкович, Семенов, Александрова
+reshebniki/algebra/10/mordkovich2/index.html|mordkovich10|2019||Мордкович (Баз и угл Ч2)|Мордкович, Семенов
+reshebniki/algebra/10/merzlyak/index.html|merzlyak10|2019||Мерзляк (Базовый)|Мерзляк, Номировский, Полонский
+reshebniki/algebra/10/merzlyak_ugl/index.html|merzlyak_ugl10|2023||Мерзляк (Углубленный)|Мерзляк, Номировский, Поляков
+reshebniki/algebra/10/kolyagin/index.html|kolyagin10|2019||Колягин|Колягин, Ткачёва, Фёдорова
+reshebniki/fizika/10/rimkevich10-11/index.php|rimkevich|2025|1|Рымкевич 10-11 класс|Рымкевич
+reshebniki/russkijazik/10-11/posobie_grekov/index.php|grekov|2024|1|Греков 10-11 класс|Греков, Крючков, Чешко
+starlight10/index.html|starlight10|2026,2023||Starlight|Баранова, Дули, Копылова
+rainbow10/index.html|rainbow10|2023||Rainbow|Баранова, Афанасьева, Михеева
+forward10/index.html|forward10|2022||Forward|Вербицкая, Маккинли, Хастингс
+enjoy10/index.html|bibo10|2018||Enjoy English|Биболетова, Бабушис
+komarova10/index.html|komarova10|2016||Комарова|Комарова, Ларионова
+kuzovlev10/index.html|kuzovlev10|2022||Кузовлев|Кузовлев, Лапа
+kuzovlev10-11/index.html|kuzovlev10-11|2009||Кузовлев|Кузовлев
+happy10/index.html|happy10|2009||Happy English|Кауфман
+nme10/index.html|nme10|2012||New Millennium|Казырбаева, Дворецкая
+miheeva10/index.html|miheeva10|2007||Михеева|Михеева, Афанасьева
+reshebniki/algebra/10/nikol/index.html|nikol10|2020||Никольский|Никольский, Потапов
+reshebniki/algebra/10/nikol_didakt/index.html|nikol_didakt10|2017||Дидакт. материалы|Потапов, Шевкин, Никольский
+reshebniki/algebra/10/kolmogorov10-11/index.php|kolmogor10-11|2018||Колмогоров 10-11 класс|Колмогоров, Абрамов
+reshebniki/algebra/10/bunimovich/index.html|bunimovich10|2026||Бунимович|Бунимович, Булычев
+reshebniki/geometriya/10/pogorelov10-11/index.html|pogorelov10-11|2022||Погорелов 10-11 класс|Погорелов
+reshebniki/informatika/10/semakin/index.html|semakin10|2022||Семакин|Семакин, Хеннер, Шеина
+reshebniki/informatika/10/bosova/index.html|bosova10|2025||Босова|Босова
+reshebniki/informatika/10/WBbosova/index.html|bosova_wb10|2015||Босова (Сам и контр)|Босова, Босова, Лобанов
+reshebniki/istoria/10/medinsky_vseobshaya/index.html|medinsky_vseobshaya10|2025|1|Мединский|Мединский, Чубарьян
+reshebniki/istoria/10/medinsky/index.html|medinsky10|2024|1|Мединский|Мединский, Торкунов
+reshebniki/istoria/10/medinsky_rt/index.html|medinsky_rt10-11|2026|1|Мединский (Практикум)|Тороп, Мединский
+reshebniki/istoria/10/gorinov/index.html|gorinov10|2019||Горинов|Горинов, Данилов, Моруков
+reshebniki/istoria/10/soroko-tsupa/index.html|soroko-tsupa10|2021||Сороко-Цюпа|Сороко-Цюпа
+reshebniki/istoria/10/saharov/index.html|saharov10|2013||Сахаров|Сахаров, Загладин
+reshebniki/obshestvo/10/bogolubov/index.html|bogolubov10|2022||Боголюбов|Боголюбов, Лазебникова
+reshebniki/obshestvo/10/kotova/index.html|kotova10|2022||Котова|Котова, Лискова
+reshebniki/obshestvo/10/kotova_tetrad/index.html|kotova_tetrad10|2013||Котова (Тренажёр)|Котова, Лискова
+reshebniki/fizika/10/myakishev/index.html|myakishev10_new|2026,2014|1|Мякишев|Мякишев, Буховцев
+reshebniki/fizika/10/myakishev_old/index.html|myakishev10_old|2010||Мякишев|Мякишев, Буховцев
+reshebniki/ximiya/10/ostroumov/index.html|ostroumov10|2023||Габриелян (Базовый)|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/10/ostroumov_rt/index.html|ostroumov_rt10|2025||Габриелян (Рабочая тетрадь)|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/10/gabrielyan_uglublenniy/index.html|gabr10_ugl|2022||Габриелян (Углубленный)|Габриелян, Остроумов, Пономарев
+reshebniki/ximiya/10/rudsitis/index.html|rudz10_new|2022,2014||Рудзитис|Рудзитис, Фельдман
+reshebniki/ximiya/10/rudsitis_old/index.html|rudz10|2012||Рудзитис|Рудзитис, Фельдман
+reshebniki/ximiya/10/eremin_ugl/index.html|eremin_ugl10|2023||Еремин (Углубленный)|Еремин, Кузьменко, Теренин
+reshebniki/ximiya/10/gabrielyan/index.html|gabr10_fgos|2022||Габриелян (Базовый)|Габриелян
+reshebniki/ximiya/10/gabrielyanWB/index.html|gabr10wb_fgos|2014||Габриелян (Раб тетрадь)|Габриелян
+reshebniki/russkijazik/10-11/goltsova/index.php|golcova10-11|2022,2014|1|Гольцова 10-11 класс|Гольцова, Шамшин
+reshebniki/russkijazik/10-11/vlasenkov/index.php|vlas10-11new|2017|1|Власенков 10-11 класс|Власенков, Рыбченкова
+reshebniki/russkijazik/10-11/ribchenkova/index.html|ribchenkova10-11|2026,2023|1|Рыбченкова 10-11 класс|Рыбченкова, Александрова, Нарушевич
+reshebniki/russkijazik/10-11/alexandrova/index.html|alexandrova10-11|2024||Александрова 10-11 класс|Александрова, Загоровская, Гостева
+reshebniki/russkijazik/10-11/babayceva/index.html|babayceva10-11|2026||Бабайцева 10-11 класс|Бабайцева
+reshebniki/russkijazik/10/gusarova/index.html|gusarova10|2026|1|Гусарова|Гусарова
+reshebniki/biologia/10/pasechnik_ucheb/index.html|pasechnik_ucheb10|2019||Пасечник (Базовый)|Пасечник, Каменский, Рубцов
+reshebniki/biologia/10/pasechnik_ugl/index.html|pasechnik_ugl10|2022||Пасечник (Углубленный)|Пасечник, Каменский, Рубцов
+reshebniki/biologia/10/kamenskiy/index.html|kamenskiy10|2023||Каменский|Пасечник, Касперская, Сивоглазов
+reshebniki/geograph/10/maksakovskiy10-11/index.html|maksakovskiy10-11|2023||Максаковский 10-11 класс|Максаковский
+reshebniki/geograph/10/maksakovskiy10/index.html|maksakovskiy10|2012||Максаковский (Раб тетрадь)|Максаковский
+reshebniki/geograph/10/kuznetsov10-11/index.html|kuznetsov10-11|2023||Кузнецов 10-11 класс|Кузнецов, Ким
+reshebniki/geograph/10/gladkiy/index.html|gladkiy10|2024||Гладкий|Гладкий, Николина
+reshebniki/literatura/10/lebedev_baz/index.html|lebedev_baz10|2025||Лебедев (Базовый)|Лебедев
+reshebniki/literatura/10/lebedev/index.html|lebedev10|2024||Лебедев (Углубленный)|Лебедев
+reshebniki/literatura/10/korovin/index.html|korovin10|2025||Коровин (Углубленный)|Коровин, Вершинина, Капитанова

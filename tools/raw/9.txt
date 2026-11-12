@@ -1,0 +1,80 @@
+reshebniki/algebra/9/makarichev/index.php|makar9|2026,2024,14|1|Макарычев|Макарычев, Миндюк, Нешков
+reshebniki/algebra/9/makarichev_rt/index.html|makarichev_rt9|2026||Макарычев (Рабочая тетрадь)|Крайнева, Миндюк
+reshebniki/geometriya/7/atanasyan/index.php|atan7-9|2025,2023(14)|1|Атанасян 7-9 класс|Атанасян, Бутузов
+reshebniki/algebra/9/makarichev_ugl/index.html|makarichev_ugl9|2026,2023||Макарычев (Углубленный)|Макарычев, Миндюк, Нешков
+reshebniki/algebra/9/merzlyak/index.html|merzlyak9|2026,2021|1|Мерзляк (Базовый)|Мерзляк, Полонская, Якир
+reshebniki/algebra/9/merzlyak_didakt/index.html|merzlyak9_didakt|2018||Мерзляк (Дидакт.)|Мерзляк, Полонский, Якир
+reshebniki/algebra/9/merzlyak_samkontr/index.html|merzlyak_samkontr9|2018||Мерзляк (Сам и контр)|Мерзляк, Полонский, Рабинович
+reshebniki/algebra/9/merzlyak_wb/index.html|merzlyak_wb9|2021||Мерзляк (Рабочая тетрадь)|Мерзляк, Полонская, Якир
+reshebniki/fizika/9/perishkin_new/index.html|perishkin_new9|2026||Перышкин|Перышкин, Гутник
+reshebniki/fizika/9/perishkin/index.html|per9|2024,2019||Перышкин|Перышкин, Гутник
+reshebniki/fizika/9/perishkin_wb/index.html|per_wb9|2020||Перышкин (Рабочая тетрадь)|Перышкин
+spotlight9/index.html|spot9|2026||Spotlight|Юлия Ваулина, Джунни Дули
+happy9/index.html|happy9|2007||Happy English|Кауфман
+rainbow9/index.html|rainbow9|2021||Rainbow|Баранова, Афанасьева, Михеева
+nme9/index.html|nme9|2012||New Millennium|Казырбаева, Дворецкая
+enjoy9/index.html|bibo9|2022||Enjoy English|Биболетова, Бабушис
+miheeva9nc/index.html|miheeva9|2012||Михеева (новый курс)|Михеева, Афанасьева
+starlight9/index.html|starlight9|2026,2019||Starlight|Баранова, Дули, Копылова
+forward9/index.html|forward9|2023||Forward|Вербицкая, Маккинли, Хастингс
+komarova9/index.html|komarova9|2019||Комарова|Комарова, Ларионова
+kuzovlev9/index.html|kuzovlev9|2011||Кузовлев|Кузовлев
+reshebniki/algebra/9/merzlyak_polyakov/index.html|merzlyak_polyakov9|2021||Мерзляк (Углубленный)|Мерзляк, Поляков
+reshebniki/algebra/9/dorofeev/index.html|dorofeev9|2024,2019||Дорофеев|Дорофеев, Суворова, Бунимович
+reshebniki/algebra/9/kolyagin/index.html|kolyagin9|2024||Колягин|Колягин, Ткачёва, Фёдорова
+reshebniki/algebra/9/mord/index.html|mord9|2019,2010||Мордкович (Задачник Ч2)|Мордкович, Александрова, Мишустина
+reshebniki/algebra/9/mordkovich_semenov/index.html|mord_semenov9|2025,2023||Мордкович|Мордкович, Семенов, Александрова
+reshebniki/algebra/7/visotskiy/index.html|visotskiy79|2023|1|Высоцкий 7-9 класс|Высоцкий, Ященко
+reshebniki/algebra/9/nikol/index.html|nikol9|2019||Никольский|Никольский, Потапов
+reshebniki/algebra/9/minduk/index.html|minduk9|||Миндюк|Макарычев, Миндюк, Феоктистов
+reshebniki/geometriya/10/wbatanasyan9/index.html|atan9|||Атанасян (Раб тетрадь)|Атанасян, Бутузов
+reshebniki/geometriya/7/pogorelov/index.html|pogorelov79|2022,2014||Погорелов 7-9 класс|Погорелов
+reshebniki/geometriya/9/merzlyak/index.html|merzlyak_geo9|2020||Мерзляк|Мерзляк, Полонская, Якир
+reshebniki/informatika/9/bosova2023/index.html|bosova2023_9|2025||Босова|Босова
+reshebniki/informatika/9/bosova_uchebnik/index.html|bosova9|2017||Босова|Босова
+reshebniki/informatika/9/bosova_ugl/index.html|bosova_ugl9|2025||Босова (Углубленный)|Босова, Аквилянов
+reshebniki/informatika/9/bosova/index.html|WBbosova9|2023,2016||Босова (Раб тетрадь)|Босова
+reshebniki/informatika/9/bosova_kontr/index.html|bosova_kontr9|2023,2017||Босова (Сам и контр)|Босова, Босова, Лобанов
+reshebniki/informatika/7/bosova7-9/index.html|bosova7-9|2023||Босова 7-9 класс (Сборник)|Босова, Аквилянов
+reshebniki/informatika/9/semakin/index.html|semakin9|2024||Семакин|Семакин, Залогова
+reshebniki/fizika/8/lukashik7-9/index.php|luk7-9|2026,2016|1|Лукашик 7-9 класс|Лукашик, Иванова
+reshebniki/ximiya/9/ostroumov/index.html|ostroumov9|2026,2019||Габриелян|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/9/ostroumov_rt/index.html|ostroumov_rt9|2024||Габриелян (Раб тетрадь)|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/9/ostroumov_ugl/index.html|ostroumov_ugl9|2026||Габриелян (Углубленный)|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/9/gabrielyan_new/index.html|gabrielyan_new9|2025,2020||Габриелян|Габриелян
+reshebniki/ximiya/9/gabrielyan/index.html|gabr9|2013||Габриелян|Габриелян
+reshebniki/ximiya/9/gabrielyanWB/index.html|gabr9wb|2024||Габриелян (Рабочая тетрадь)|Габриелян, Сладков
+reshebniki/ximiya/9/gabrielyan_newKontr/index.html|gabr9kontrnew|2016||Габриелян (Контрольные)|Габриелян
+reshebniki/ximiya/9/gabrielyan_oldKontr/index.html|gabr9kontr|2012||Габриелян (Контрольные)|Габриелян
+reshebniki/ximiya/9/eremin/index.html|eremin9|2024||Еремин|Еремин, Кузьменко
+reshebniki/ximiya/9/kuznecova/index.html|kuznecova9|2021||Кузнецова|Кузнецова, Титова, Гара
+reshebniki/ximiya/9/rudsitis_new/index.html|rudzitis9|2025||Рудзитис|Рудзитис, Фельдман
+reshebniki/ximiya/9/rudsitis/index.html|rudz9|2016||Рудзитис|Рудзитис, Фельдман
+reshebniki/russkijazik/9/barh_new/index.html|barh9|2026,2019|1|Бархударов|Бархударов
+reshebniki/russkijazik/9/ladizhenskaya/index.html|lad9|2014|1|Ладыженская|Ладыженская, Тростенцова
+reshebniki/russkijazik/9/razumovskaya/index.php|razum9|2026,2018|1|Разумовская|Разумовская, Львова
+reshebniki/russkijazik/9/shmelev/index.html|shmelev9|2022||Шмелёв|Шмелёв, Флоренская
+reshebniki/russkijazik/9/bistrova/index.html|bistrova9|2022||Быстрова|Быстрова, Кибирева
+reshebniki/russkijazik/9/alexandrova/index.html|aleksandrova9|2026||Александрова|Александрова, Загоровская, Богданов
+reshebniki/russkijazik/9/ribchenkova/index.html|ribchenkova9|2023||Рыбченкова|Рыбченкова, Александрова, Загоровская
+reshebniki/russkijazik/9/pichugov/index.html|pichugov9|2025||Пичугов|Пичугов, Еремеева
+reshebniki/biologia/9/pasechnik_ucheb/index.html|pasechnik_ucheb9|||Пасечник|Пасечник, Каменский, Швецов
+reshebniki/biologia/9/pasechnik/index.html|pasechnik9|||Пасечник (Раб тетрадь)|Пасечник, Швецов
+reshebniki/biologia/9/ponomareva/index.html|ponomareva9|||Пономарева|Пономарева, Корнилова, Чернова
+reshebniki/istoria/9/medinsky/index.html|medinsky9|2025|1|Мединский|Мединский, Чубарьян
+reshebniki/istoria/9/medinsky_torkunov/index.html|medinsky_torkunov9|2025|1|Мединский|Мединский, Торкунов
+reshebniki/istoria/9/arsentev_new/index.html|arsentev_new9|2021||Арсентьев|Арсентьев, Данилов, Левандовский
+reshebniki/istoria/9/arsentev/index.html|arsentev9|2016||Арсентьев|Арсентьев, Данилов, Левандовский
+reshebniki/istoria/9/arsentev_rt/index.html|arsentev_rt9|2025||Арсентьев (Рабочая тетрадь)|Данилов, Косулина
+reshebniki/istoria/9/udovskaya/index.html|udovskaya9|2019||Юдовская|Юдовская, Баранов, Ванюшкина
+reshebniki/obshestvo/9/bogolubov/index.html|bogolubov9|2020||Боголюбов|Боголюбов, Лазебникова, Матвеев
+reshebniki/obshestvo/9/bogolubov_lazebnikova/index.html|bogolubov_laz9|2023||Боголюбов|Боголюбов, Лазебникова, Лобанов
+reshebniki/obshestvo/9/kotova/index.html|kotova9|2019||Котова|Котова, Лискова
+reshebniki/obshestvo/9/kotova_brizgalina/index.html|kotova_brizgalina9|2021||Котова|Котова, Лискова, Брызгалина
+reshebniki/geograph/9/alexeev_nikolina/index.html|alexeev_nikolina9|2023||Алексеев|Алексеев, Николина, Липкина
+reshebniki/geograph/9/alexeev_nizovcev_nikolina/index.html|alexeev_nizovcev_nikolina9|2024||Алексеев|Алексеев, Низовцев, Николина
+reshebniki/geograph/9/alexeev_nizovcev/index.html|alexeev_nizovcev9|2023||Алексеев|Алексеев, Низовцев
+reshebniki/geograph/9/kim/index.html|alexeeva_rt9|2019||Алексеев (Рабочая тетрадь)|Алексеев, Низовцев, Ким
+reshebniki/geograph/9/sirotin/index.html|sirotin9|2014||Сиротин (Карты)|Сиротин
+reshebniki/geograph/9/dronovWB/index.html|dronov9|||Дронов (Раб тетрадь)|Дронов, Ром
+reshebniki/literatura/9/korovina/index.html|korovina9|2026||Коровина|Коровина, Журавлев

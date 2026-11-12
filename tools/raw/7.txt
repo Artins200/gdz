@@ -1,0 +1,78 @@
+reshebniki/geometriya/7/atanasyan/index.php|atan7-9|2025,2023(14)|1|Атанасян 7-9 класс|Атанасян, Бутузов
+reshebniki/fizika/7/perishkin/index.html|per7|2013||Перышкин|Перышкин
+reshebniki/fizika/7/perishkin_new/index.html|perishkin_new7|2022||Перышкин|Перышкин
+reshebniki/fizika/7/perishkin_ivanov_new/index.html|per_ivanov_new7|2026||Перышкин|Перышкин, Иванов
+reshebniki/fizika/7/perishkin_ivanov/index.html|per_ivanov7|2021||Перышкин|Перышкин, Иванов
+reshebniki/algebra/7/makarichev/index.php|makar7|2026,2019|1|Макарычев|Макарычев, Миндюк
+reshebniki/algebra/7/makarichev_rt/index.html|makarichev_rt7|2026||Макарычев (Рабочая тетрадь)|Крайнева, Миндюк
+reshebniki/algebra/7/merzlyak/index.html|merzlyak7|2025,2021|1|Мерзляк|Мерзляк, Полонская, Якир
+reshebniki/algebra/7/merzlyak_wb/index.html|merzlyak_wb7|2021||Мерзляк (Рабочая тетрадь)|Мерзляк, Полонская, Якир
+reshebniki/algebra/7/merzlyak_didakt/index.html|merzlyak7_didakt|2018||Мерзляк (Дидакт.)|Мерзляк, Полонский, Якир
+reshebniki/algebra/7/merzlyak_polyakov/index.html|merzlyak_polyakov7|2019||Мерзляк|Мерзляк, Поляков
+reshebniki/algebra/7/mordkovich/index.html|mord7|2020||Мордкович|Мордкович, Александрова
+reshebniki/algebra/7/mordkovich_semenov/index.html|mord_semenov7|2025,2019||Мордкович|Мордкович, Семенов, Александрова
+spotlight7/index.html|spot7|2026||Spotlight|Юлия Ваулина, Джунни Дули
+reshebniki/russkijazik/7/baranov/index.php|bar7|2026,2013|1|Ладыженская|Баранов, Ладыженская
+reshebniki/russkijazik/7/baranov_rt/index.html|baranov_rt7|2025||Бондаренко (Рабочая тетрадь)|Баранов, Ладыженская
+reshebniki/fizika/8/lukashik7-9/index.php|luk7-9|2026,2016|1|Лукашик 7-9 класс|Лукашик, Иванова
+reshebniki/istoria/7/medinsky/index.html|medinsky7|2025|1|Мединский|Мединский, Чубарьян
+reshebniki/istoria/7/medinsky_rt/index.html|medinsky_rt7|2025||Мединский (Рабочая тетрадь)|Ведюшкин, Бовыкин
+reshebniki/istoria/7/medinsky_torkunov/index.html|medinsky_torkunov7|2025||Мединский|Мединский, Торкунов
+reshebniki/istoria/7/arsentev/index.html|arsentev7|2016||Арсентьев|Арсентьев, Данилов, Курукин
+reshebniki/istoria/7/arsentev_rt/index.html|arsentev_rt7|2022||Арсентьев (Рабочая тетрадь)|Арсентьев, Данилов, Косулина
+starlight7/index.html|starlight7|2026,2019||Starlight|Баранова, Дули, Копылова
+rainbow7/index.html|rainbow7|2014||Rainbow|Баранова, Афанасьева, Михеева
+reshebniki/algebra/7/nikol/index.html|nikol7|2013||Никольский|Никольский, Потапов
+reshebniki/russkijazik/7/ribchenkova_new/index.html|ribchenkova_new7|2026||Рыбченкова|Рыбченкова, Александрова, Загоровская
+reshebniki/russkijazik/7/ribchenkova/index.html|ribchenkova7|2023,2018||Рыбченкова|Рыбченкова, Александрова, Загоровская
+reshebniki/istoria/7/udovskaya/index.html|udovskaya7|2019||Юдовская|Юдовская, Баранов, Ванюшкина
+reshebniki/istoria/7/udovskaya_rt/index.html|udovskaya_rt7|2022||Юдовская (Рабочая тетрадь)|Юдовская, Баранов, Ванюшкина
+reshebniki/istoria/7/vedushkin/index.html|vedushkin7|2019||Ведюшкин|Ведюшкин, Бовыкин
+komarova7/index.html|komarova7|2017||Комарова|Комарова, Ларионова
+kuzovlev7/index.html|kuzovlev7|2019||Кузовлев|Кузовлев, Лапа, Перегудова
+reshebniki/geometriya/7/pogorelov/index.html|pogorelov79|2022,2014||Погорелов 7-9 класс|Погорелов
+reshebniki/geometriya/7/merzlyak/index.html|merzlyak_geo7|2022||Мерзляк|Мерзляк, Полонская, Якир
+reshebniki/russkijazik/7/razum/index.html|razum7|2024,2023,18||Разумовская|Разумовская, Львова, Капинос
+reshebniki/russkijazik/7/razumovskaya_rt/index.html|razumovskaya_rt7|2021||Разумовская (Рабочая тетрадь)|Разумовская, Ларионова
+happy7/index.html|happy7|2008||Happy English|Кауфман
+miheeva7/index.html|miheeva7|2005||Михеева|Афанасьева, Михеева
+enjoy7/index.html|bibo7|2018||Enjoy English|Биболетова, Бабушис
+forward7/index.html|forward7|2014||Forward|Вербицкая, Гаярделли, Редли
+reshebniki/algebra/7/visotskiy/index.html|visotskiy79|2023|1|Высоцкий 7-9 класс|Высоцкий, Ященко
+reshebniki/algebra/7/dorofeev/index.html|dorofeev7|2024,2014||Дорофеев|Дорофеев, Суворова, Бунимович
+reshebniki/algebra/7/kolyagin/index.html|kolyagin7|2023,2012||Колягин|Колягин, Ткачёва, Фёдорова
+reshebniki/algebra/7/muravin/index.html|muravin7|2020||Муравин|Муравин, Муравина
+reshebniki/geometriya/7/atanasyanWB/index.html|geo7WB_fgos|||Атанасян (Рабочая тетрадь)|Атанасян, Бутузов
+reshebniki/biologia/7/pasechnik_sumatohin/index.html|pasechnik_sum7|2023||Пасечник|Пасечник, Суматохин, Гапонюк
+reshebniki/biologia/7/pasechnik/index.html|pasechnik7|2019||Пасечник|Пасечник, Суматохин, Калинова
+reshebniki/biologia/7/konstantinov/index.html|konstantinov7|2022||Константинов|Константинов, Бабенко, Кучменко
+reshebniki/biologia/7/latushin/index.html|latushin7|2012||Латюшин|Латюшин, Шапкин
+reshebniki/biologia/7/latushin_rt/index.html|latushin_rt7|2017||Латюшин (Рабочая тетрадь)|Латюшин, Шапкин
+reshebniki/biologia/7/sivoglazov/index.html|sivoglazov7|2019||Сивоглазов|Сивоглазов, Сарычева
+reshebniki/fizika/7/perishkin_wb/index.html|per_wb7|2020||Перышкин (Рабочая тетрадь)|Перышкин
+reshebniki/russkijazik/7/bistrova/index.html|bistrova7|2020||Быстрова|Быстрова, Кибирева
+reshebniki/russkijazik/7/alexandrova/index.html|alexandrova7|2026,2023||Александрова|Александрова, Загоровская, Богданов
+reshebniki/russkijazik/7/shmelev/index.html|shmelev7|2022||Шмелёв|Шмелёв, Флоренская
+reshebniki/russkijazik/7/pimenova/index.html|pimenova7|2021||Пименова|Пименова, Еремеева, Купалова
+reshebniki/russkijazik/7/lvova/index.html|lvova7|2012||Львова|Львова, Львов
+reshebniki/informatika/7/bosova2023/index.html|bosova2023_7|2023||Босова (Базовый)|Босова
+reshebniki/informatika/7/bosova_new/index.html|bosova7|2013||Босова (Базовый)|Босова
+reshebniki/informatika/7/bosova_ugl/index.html|bosova_ugl7|2025||Босова (Углубленный)|Босова, Аквилянов
+reshebniki/informatika/7/WBbosova/index.html|WBbosova7|2024,2016||Босова (Раб тетрадь)|Босова
+reshebniki/informatika/7/bosova_kontr/index.html|bosova_kontr7|2025||Босова (Сам и контр)|Босова, Босова, Лобанов
+reshebniki/informatika/7/bosova7-9/index.html|bosova7-9|2023||Босова 7-9 класс (Сборник)|Босова, Аквилянов
+reshebniki/informatika/7/semakin/index.html|semakin7|2015||Семакин|Семакин, Залогова
+reshebniki/geograph/7/alexeev_nikolina_new/index.html|alexeev_nikolina_new7|2026|1|Алексеев|Алексеев, Николина, Липкина
+reshebniki/geograph/7/alexeev_nikolina/index.html|alexeev_nikolina7|2015||Алексеев|Алексеев, Николина, Липкина
+reshebniki/geograph/7/klimanova/index.html|klimanova7|2023||Климанова|Климанова, Климанов, Ким
+reshebniki/geograph/7/korinskaya_new/index.html|korinskaya_new7|2023||Коринская|Коринская, Душина, Щенёв
+reshebniki/geograph/7/korinskaya/index.html|korinskaya7|2018||Коринская|Коринская, Душина, Щенёв
+reshebniki/geograph/7/korinskaya_old/index.html|korinskaya_old7|2014||Коринская|Коринская, Душина, Щенёв
+reshebniki/obshestvo/7/bogolubov/index.html|bogolubov7|2022||Боголюбов|Боголюбов, Иванова
+reshebniki/obshestvo/7/bogolubov_lazebnikova/index.html|bogolubov_laz7|2024||Боголюбов|Боголюбов, Лазебникова, Половникова
+reshebniki/obshestvo/7/kotova_brizgalina/index.html|kotova_brizgalina7|2021||Котова|Котова, Лискова, Брызгалина
+reshebniki/obshestvo/7/kotova/index.html|kotova7|2020||Котова|Котова, Лискова
+reshebniki/ximiya/7/ostroumov/index.html|ostroumov7|2023||Габриелян|Габриелян, Остроумов, Сладков
+reshebniki/ximiya/7/gabrielyan/index.html|gabr7|2025||Габриелян|Габриелян, Остроумов, Ахлебинин
+reshebniki/ximiya/7/eremin/index.html|eremin7|2023||Еремин|Еремин, Дроздов, Лунин
+reshebniki/literatura/7/korovina/index.html|korovina7|2026||Коровина|Коровина, Журавлев

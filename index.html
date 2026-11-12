@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ГДЗ Каталог — решебники 3–11 класс</title>
+  <meta name="description" content="Офлайн-каталог решебников для 3–11 классов со ссылками на reshak.ru">
+  <meta name="theme-color" content="#16a34a">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-row">
+      <a class="brand" href="#/">
+        <img src="icons/icon-192.png" alt="" width="34" height="34">
+        <span>ГДЗ <b>Каталог</b></span>
+      </a>
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="q" type="search" placeholder="Автор, учебник, предмет…" autocomplete="off" aria-label="Поиск по каталогу">
+      </label>
+      <button id="install" class="btn primary" hidden>Установить</button>
+    </div>
+    <nav class="wrap classes" id="classes" aria-label="Классы"></nav>
+  </header>
+
+  <main class="wrap">
+    <div id="offline" class="note" hidden>Нет сети: каталог доступен, но сами решения открываются на reshak.ru и требуют интернета.</div>
+    <div id="catalogView">
+    <div class="chips" id="subjects" aria-label="Предметы"></div>
+    <h1 id="title"></h1>
+    <p id="count" class="muted"></p>
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>Ничего не найдено. Попробуйте изменить запрос или выбрать другой класс.</p>
+    </div>
+    <section id="book" hidden></section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Каталог ссылок: <span id="total"></span> решебников, данные от <span id="updated"></span>. Все решения и обложки принадлежат
+      <a href="https://reshak.ru/" target="_blank" rel="noopener">reshak.ru</a> и открываются на их сайте.</p>
+    <p class="muted" id="iosHint" hidden>На iPhone/iPad: «Поделиться» → «На экран “Домой”».</p>
+  </footer>
+
+  <script src="data/catalog.js" defer></script>
+  <script src="data/solutions/makar7.js" defer></script>
+  <script src="data/solutions/makar7_p2.js" defer></script>
+  <script src="data/solutions/makar7_p3.js" defer></script>
+  <script src="data/solutions/makar7_p4.js" defer></script>
+  <script src="data/solutions/makar7_p5.js" defer></script>
+  <script src="data/solutions/makar7_p6.js" defer></script>
+  <script src="data/solutions/makar7_p7.js" defer></script>
+  <script src="data/solutions/makar7_p8.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
